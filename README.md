@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hai Kak, Selamat Datang 👋
+## Terimakasih Telah Berkunjung 😏😏
 <!--
 **thebesttsunami/thebesttsunami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
